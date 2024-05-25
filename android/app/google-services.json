@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95802949748",
+    "firebase_url": "https://tic-tac-toe-a5183-default-rtdb.firebaseio.com",
+    "project_id": "tic-tac-toe-a5183",
+    "storage_bucket": "tic-tac-toe-a5183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95802949748:android:c30640c8942ecd0dbe1121",
+        "android_client_info": {
+          "package_name": "com.sahulat.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95802949748-gjlce4j99bp2cee22vr1dqhvf2a2qn35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUKvvxCvVS9tOqJrmb2Dd7txI9P2Xlhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95802949748-gjlce4j99bp2cee22vr1dqhvf2a2qn35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
